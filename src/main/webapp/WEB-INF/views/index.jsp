@@ -13,6 +13,10 @@
 <body>
 <button onclick="fun1()">hello1.jsp 출력</button>>
 <button onclick="fun2()">hello2.jsp 출력</button>
+
+<a href="/hello3">hello3</a>
+<a href="/hello4">hello4</a>
+<a href="/hello5">hello5</a>
 </body>
 <script>
     const fun1 = () => {
